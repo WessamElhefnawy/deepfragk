@@ -39,3 +39,13 @@ pprint
 
 Database:
 due to the size of database, we provide a download link on request. please contact welhefna@odu.edu to provide the database access link.
+
+
+Directories and Files:
+|
+|---fasta, fasta sequence processing, fasta sequence reader.
+|---pssm, position specific scoring matrix reader.
+|---vi, features calculations and scripts.
+|---deepfrag.py, main program.
+|---model.py, model reader and utilities.
+|---README.txt, description of framework.
